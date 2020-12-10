@@ -1,4 +1,6 @@
 # Mailbuff :rocket:
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/appbuff/mailbuff/blob/master/licence.txt)
 
 Opensource and Professional Mail Verification Solution.
 
@@ -28,7 +30,17 @@ After spending some time, we come with this [Mailbuff](https://github.com/appbuf
 
 Note: You must configure your server properly as a mail server to avoid being blocked or blacklisted. You can check your server using [Mail Tester](https://mail-tester.com).
 
-
+## Credits
+- [Bootstrap](https://getbootstrap.com/)
+- [CKEditor](https://ckeditor.com)
+- [DropzoneJS](https://www.dropzonejs.com/)
+- [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2)
+- [Font Awesome](https://fontawesome.com/)
+- [Favicon Generator](https://realfavicongenerator.net/)
+## Screenshots
+<img height="480px" src="preview/1.png">
+<img height="480px" src="preview/2.png">
+<img height="480px" src="preview/3.png">
 ## License
 
 ```
