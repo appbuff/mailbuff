@@ -1,6 +1,6 @@
 # Mailbuff :rocket:
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/appbuff/mailbuff/blob/master/licence.txt)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/appbuff/mailbuff/blob/main/LICENSE)
 
 Opensource and Professional Mail Verification Solution.
 
@@ -41,6 +41,7 @@ Note: You must configure your server properly as a mail server to avoid being bl
 <img height="480px" src="preview/1.png">
 <img height="480px" src="preview/2.png">
 <img height="480px" src="preview/3.png">
+
 ## License
 
 ```
